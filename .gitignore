@@ -1,0 +1,16 @@
+# Ignore Go build files
+bin/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+
